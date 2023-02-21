@@ -57,7 +57,7 @@ CREATE TABLE `endereco` (
 CREATE TABLE `eventos` (
   `id` int(11) NOT NULL,
   `nome` varchar(255) DEFAULT NULL,
-  `banner` mediumblob NOT NULL,
+  `banner` varchar(255) NOT NULL,
   `valor_min` varchar(255) NOT NULL,
   `descricao` varchar(255) NOT NULL,
   `horario` varchar(255) NOT NULL
