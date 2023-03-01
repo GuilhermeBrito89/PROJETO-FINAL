@@ -16,9 +16,9 @@ Esse projeto foi utilizado para simular como é um ambiente de trabalho, pois fo
 
 
 
-## Tema escolhido: Site para eventos
+## Nossa proposta
  
-Nosso site tem como objetivo fornecer aos usuários uma plataforma que vai otimizar a busca por diferentes eventos locais, e ajudará também os mesmo a terem contato direto com organizadores. O site permitirá a busca de eventos como shows, festivas, conferências, exposições e muito mais. Dentro da plataforma estará disponível um filtro possibilitando o usuário encontrar eventos gratuitos ou pagos que cabem no seu bolso.
+O site tem como objetivo fornecer aos usuários uma plataforma que vai otimizar a busca por diferentes eventos locais, e ajudará também os mesmo a terem contato direto com organizadores. O site permitirá a busca de eventos como shows, festivas, conferências, exposições e muito mais. Dentro da plataforma estará disponível um filtro possibilitando o usuário encontrar eventos gratuitos ou pagos que cabem no seu bolso.
 
 Além disso, será permitido que os organizadores cadastrem seus eventos e alcancem um público mais amplo, eles poderam criar listas detalhadas de seus eventos, incluindo informações como local, data, hora, preço, descrição e muito mais.
 
@@ -26,6 +26,12 @@ nosso foco com esse site é dispobilizar eventos poucos conhecidos que sejam loc
 
 ## Página Home
 <img width="958" alt="home_cristo" src="https://user-images.githubusercontent.com/112408111/222288397-8cee320e-07b6-490c-a2c1-f350632cb5ba.png"> 
+
+## Home/Proposta
+<img width="688" alt="PROPOSTA" src="https://user-images.githubusercontent.com/112408111/222290203-d15b5203-29b3-45b4-bc44-ef80553f9558.png">
+
+## Home/Footer
+<img width="953" alt="Footer" src="https://user-images.githubusercontent.com/112408111/222291640-8a4c0d15-e1a0-4110-be08-c836ee261f79.png">
 
 ## Página Rolés
 <img width="960" alt="ROLES_page" src="https://user-images.githubusercontent.com/112408111/222288527-13579aaf-8c24-49f7-96e2-2dc887d39e92.png">
@@ -42,11 +48,6 @@ nosso foco com esse site é dispobilizar eventos poucos conhecidos que sejam loc
 ## Formulário de cadastro
 <img width="960" alt="ADD" src="https://user-images.githubusercontent.com/112408111/222289688-a997f673-61fe-402a-b482-f7cd7d5d9608.png">
 
-## Home/Proposta
-<img width="688" alt="PROPOSTA" src="https://user-images.githubusercontent.com/112408111/222290203-d15b5203-29b3-45b4-bc44-ef80553f9558.png">
-
-## Home/Footer
-<img width="953" alt="Footer" src="https://user-images.githubusercontent.com/112408111/222291640-8a4c0d15-e1a0-4110-be08-c836ee261f79.png">
 
 ## FERRAMENTAS UTILIZADAS
 
