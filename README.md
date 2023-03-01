@@ -45,6 +45,8 @@ nosso foco com esse site é dispobilizar eventos poucos conhecidos que sejam loc
 ## Home/Proposta
 <img width="688" alt="PROPOSTA" src="https://user-images.githubusercontent.com/112408111/222290203-d15b5203-29b3-45b4-bc44-ef80553f9558.png">
 
+## Home/Footer
+<img width="953" alt="Footer" src="https://user-images.githubusercontent.com/112408111/222291640-8a4c0d15-e1a0-4110-be08-c836ee261f79.png">
 
 ## FERRAMENTAS UTILIZADAS
 
@@ -53,15 +55,6 @@ nosso foco com esse site é dispobilizar eventos poucos conhecidos que sejam loc
 - GitHub
 - React JS
 - Canvas
-
-## Tema escolhido: Site para eventos
- 
- Nosso site tem como objetivo fornecer aos usuários uma plataforma que vai otimizar a busca por diferentes eventos locais, e ajudará também os mesmo a terem contato direto com organizadores. O site permitirá a busca de eventos como shows, festivas, conferências, exposições e muito mais. Dentro da plataforma estará disponível um filtro possibilitando o usuário encontrar eventos gratuitos ou pagos que cabem no seu bolso.
-
-Além disso, será permitido que os organizadores cadastrem seus eventos e alcancem um público mais amplo, eles poderam criar listas detalhadas de seus eventos, incluindo informações como local, data, hora, preço, descrição e muito mais.
-
-nosso foco com esse site é dispobilizar eventos poucos conhecidos que sejam locais  e são interessantes, porém não possuem muito reconhecimento, seja eventos esportivos, teatrais , músicas entre outros.
-
 
 # EQUIPE
 
